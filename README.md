@@ -12,7 +12,8 @@
 
 ## Photo
 This is what the end result should look like : 
-![IMG_2197](https://user-images.githubusercontent.com/50530429/80833491-9fd6fa00-8bbc-11ea-8e9a-224afb48ae3c.jpeg | width=100)
+<img width="703" alt="end_result" src="https://user-images.githubusercontent.com/50530429/80833491-9fd6fa00-8bbc-11ea-8e9a-224afb48ae3c.jpeg">
+
 
 ## How to:
 First of all, you will need to place the servo on top of the space bar, make sure that the servo is able to push the spacebar down, put weight on top of it to do so.
