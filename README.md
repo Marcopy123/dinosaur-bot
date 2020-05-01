@@ -10,7 +10,7 @@
 ## Diagram
 <img width="703" alt="diagram" src="https://user-images.githubusercontent.com/50530429/80832335-75843d00-8bba-11ea-876d-52b4fd551ec6.png">
 
-## Photo
+## End Result
 This is what the end result should look like : 
 
 <img width="500" height = "600" alt="end_result" src="https://user-images.githubusercontent.com/50530429/80833491-9fd6fa00-8bbc-11ea-8e9a-224afb48ae3c.jpeg">
