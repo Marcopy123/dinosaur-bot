@@ -12,7 +12,8 @@
 
 ## Photo
 This is what the end result should look like : 
-<img width="500" height = 500 alt="end_result" src="https://user-images.githubusercontent.com/50530429/80833491-9fd6fa00-8bbc-11ea-8e9a-224afb48ae3c.jpeg">
+
+<img width="500" height = "600" alt="end_result" src="https://user-images.githubusercontent.com/50530429/80833491-9fd6fa00-8bbc-11ea-8e9a-224afb48ae3c.jpeg">
 
 
 ## How to:
