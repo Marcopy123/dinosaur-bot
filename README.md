@@ -25,4 +25,4 @@ This is what the end result should look like :
 
 #### Thats it! Now you can have a bot to play the dinosaur game for you :)
 ## Made by
-This project is made my Marco, April 30 2020
+This project is made by Marco, April 30 2020
